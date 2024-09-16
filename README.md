@@ -13,8 +13,8 @@
 ![image](https://github.com/user-attachments/assets/d5d4d947-68bf-4a87-a7cb-b2ff25923b38)
 
 ## Contribuciones
-Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
-Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Python
-Felipe Soto. Consultor independiente Chile-Material Datos 
+-Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
+-Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Python
+-Felipe Soto. Consultor independiente Chile-Material Datos 
 
 
