@@ -16,6 +16,7 @@
 
 
 ## Contribuciones
+-Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas)
 
 -Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
 
