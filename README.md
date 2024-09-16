@@ -11,6 +11,8 @@
 ![image](https://github.com/user-attachments/assets/d5d4d947-68bf-4a87-a7cb-b2ff25923b38)
 ![image](https://github.com/user-attachments/assets/b667a3ad-3479-41ff-a4d1-87471f122259)
 ![image](https://github.com/user-attachments/assets/61a2b6bd-41f2-471c-8596-4736c07ffde7)
+![image](https://github.com/user-attachments/assets/2ecc6a19-f7cf-483d-b527-37ff990cceb6)
+
 
 
 ## Contribuciones
@@ -19,6 +21,8 @@
 
 -Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Python
 
--Felipe Soto. Consultor independiente Chile-Material Datos 
+-Felipe Soto. Consultor independiente Chile-Material Datos
+
+-Gerardo Archbold. Profesor de Informática-Dirección de contenido y gestión.
 
 
