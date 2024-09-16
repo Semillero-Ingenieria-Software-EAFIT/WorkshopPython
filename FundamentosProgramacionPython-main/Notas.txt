@@ -1,0 +1,26 @@
+# Descargar e instalar
+
+## Lenguaje Python
+https://www.python.org/
+
+## Anaconda download (Jupyter Notebook e IDE Spyder)
+https://www.anaconda.com/download/success
+
+## IDE Visual Studio Code
+https://code.visualstudio.com/download
+
+## PseInt - Algoritmia: Descargar el archivo portable que no requiere instalación. Solo descomprimir y ejecutar el archvio "wxPSeInt.exe" 
+http://prdownloads.sourceforge.net/pseint/pseint-w64-20240122.zip?download
+
+# Acceder online (Iniciar sesión con cuenta gmail)
+https://colab.research.google.com/
+
+# Obervaciones de manejo de los archivos
+- Los archivos en Github son solo para visualizar, no se pueden editar (ejecutar o modificar las celdas).
+- Para editarlos, o ejecutar los códigos presentados, se deben descargar y abrirlos en el Anaconda o usando el enlace a Google Colab.
+- Si se abren en Google Colab, debe iniciar sesión con cuenta de Gmail para su ejecución
+
+# Módulos
+
+Modulo01_Introduccion: Se presentan los objetivos del curso. Se tienen dos tablas con el clase-a-clase del contenido programático. Editarlo según el plan de trabajo propuesto. 
+
