@@ -23,6 +23,8 @@
 
 -Felipe Soto. Consultor independiente Chile-Material Datos
 
--Gerardo Archbold. Profesor de Informática-Dirección de contenido y gestión.
+-Gerardo Archbold. Profesor de Informática IE JUNÍN Providencia-Dirección de contenido y gestión
+
+-Julieta Hooker. Rectora IE JUNÍN Providencia-Gestión.
 
 
