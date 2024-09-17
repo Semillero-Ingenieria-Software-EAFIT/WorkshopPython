@@ -17,9 +17,13 @@
 ## Contribuciones
 -Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas), evaluación virtual.
 
--Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
-
 -Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Python
+
+-Carolina Ospina. Jefe del programa de Diseño Interactivo EAFIT- Curso de Lectura-Escritura
+
+-Paula Colorado. Profesora en Experiencia Usuario, Interacción humano computador EAFIT-Curso de Lectura-Escritura
+
+-Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
 
 -Felipe Soto. Consultor independiente Chile-Material Datos
 
