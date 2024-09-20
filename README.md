@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8df137b8-6a47-4d4c-bc39-ede16f7f0e59)
+![image](https://github.com/user-attachments/assets/69a8827d-f6bc-4b67-9cb3-751d8f4fbddc)
+
 
 ## Patrocinadores
 ![image](https://github.com/user-attachments/assets/5b6fe811-50cd-4c86-a6e7-df02d92b6aa3)
