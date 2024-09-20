@@ -15,6 +15,8 @@
 
 
 ## Contribuciones
+-Semillero de Ingeniería de Software EAFIT. Dirige Profesoras Elizabeth Suescún y Paola Noreña.
+
 -Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas), preguntas curso inicial.
 
 -Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Curso Python
