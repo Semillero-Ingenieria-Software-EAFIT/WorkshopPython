@@ -15,13 +15,13 @@
 
 
 ## Contribuciones
--Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas), evaluación virtual.
+-Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas), preguntas curso inicial.
 
--Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Python
+-Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Curso Python
 
--Carolina Ospina. Jefe del programa de Diseño Interactivo EAFIT- Curso de Lectura-Escritura
+-Carolina Ospina. Jefe del programa de Diseño Interactivo EAFIT- Curso de Escritura
 
--Paula Colorado. Profesora en Experiencia Usuario, Interacción humano computador EAFIT-Curso de Lectura-Escritura
+-Paula Colorado. Profesora en Experiencia Usuario, Interacción humano computador EAFIT-Curso de Escritura
 
 -Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
 
