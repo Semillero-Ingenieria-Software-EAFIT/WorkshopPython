@@ -6,17 +6,17 @@
 
 
 ## Contribuciones
--Semillero de Ingeniería de Software EAFIT. Dirige Profesoras Elizabeth Suescún y Paola Noreña.
+-Semillero de Ingeniería de Software EAFIT. Dirige Profesoras Elizabeth Suescún y Paola Noreña. PhD en Ing. de Sistemas.
 
--Liliana González. Profesora en Sistemas de Información EAFIT- Preparación momento creativo (dinámicas), preguntas curso inicial.
+-Liliana González. Profesora en Sistemas de Información EAFIT. PhD en Ing. de Sistemas- Preparación momento creativo (dinámicas), preguntas curso inicial.
 
--Carlos Álvarez. Profesor de Desarrollo EAFIT-Material Curso Python
+-Carlos Álvarez. Profesor de Desarrollo EAFIT. PhD.-Material Curso Python
 
--Carolina Ospina. Jefe del programa de Diseño Interactivo EAFIT- Curso de Escritura
+-Carolina Ospina. MSc. Jefe del programa de Diseño Interactivo EAFIT- Curso de Escritura
 
--Paula Colorado. Profesora en Experiencia Usuario, Interacción humano computador EAFIT-Curso de Escritura
+-Paula Colorado. MSc.Profesora en Experiencia Usuario, Interacción humano computador EAFIT-Curso de Escritura
 
--Giovanni Gómez. Profesor de Arquitectura EAFIT-Arquitectura desconectada
+-Giovanni Gómez. MSc. Profesor de Arquitectura EAFIT-Arquitectura desconectada
 
 -Felipe Soto. Consultor independiente Chile-Material Datos
 
